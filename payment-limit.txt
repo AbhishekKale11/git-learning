@@ -1,1 +1,1 @@
-Payment limit: 5000
+Payment limit: 3000
